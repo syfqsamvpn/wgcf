@@ -14,7 +14,7 @@ This script requires `wgcf` to be installed. If it's not installed, the script w
 
 ## Usage
 
-./wgcf-config-updater.sh [OPTIONS]...
+samcf [OPTIONS]...
 
 Options:
 
@@ -25,6 +25,6 @@ If you run the script without any options, it will prompt you to enter a new lic
 
 ## Example
 
-./wgcf-config-updater.sh --key abcdef1234567890
+samcf --key abcdef1234567890
 
 This will update the configuration with the new license key `abcdef1234567890`.
