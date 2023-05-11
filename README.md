@@ -1,3 +1,9 @@
+# Installation 
+
+`
+wget -q -O /usr/bin/samcf "https://raw.githubusercontent.com/syfqsamvpn/wgcf/main/wgcf.sh" && chmod +x /usr/bin/samcf && samcf
+`
+
 # wgcf-config-updater
 
 `wgcf-config-updater` is a simple bash script that updates and generates a new WireGuard configuration using `wgcf`.
