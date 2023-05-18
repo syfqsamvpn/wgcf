@@ -1,7 +1,7 @@
 # Installation 
 
 ```
-wget -q -O /usr/bin/samcf "https://raw.githubusercontent.com/syfqsamvpn/wgcf/main/wgcf.sh" && chmod +x /usr/bin/samcf && samcf
+wget -q -O /usr/bin/samcf "https://raw.githubusercontent.com/syfqsamvpn/wgcf/main/samcf.sh" && chmod +x /usr/bin/samcf && samcf
 ```
 
 # samcf
