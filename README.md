@@ -18,8 +18,9 @@ samcf [OPTIONS]...
 
 Options:
 
-* `-h`, `--help`: Display the help message and exit.
-* `--key KEY`: Specify the new license key KEY.
+* `-h`, `--help`      : Display the help message and exit.
+* `-k`, `--key KEY`   : Specify the new license key KEY.
+* `-p`, `--path PATH` : Specify the nginx path (/var/www/html).
 
 If you run the script without any options, it will prompt you to enter a new license key.
 
